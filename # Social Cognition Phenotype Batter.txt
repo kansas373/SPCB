@@ -1,4 +1,4 @@
-# Social Cognition Phenotype Battery (SCPB): Detecting Passive Adversarial Behavior in Frontier AI Models
+SCPB_Kaggle_Writeup.txt(SCPB): Detecting Passive Adversarial Behavior in Frontier AI Models
 
 ## Our Team
 
