@@ -1,4 +1,4 @@
-# Measuring Progress Toward AGI: Symbiotic Cognitive Benchmarks
+SCPB_Submission_v5.txt
 
 **A Relationship-Diagnostic Framework for Evaluating Human-AI Cognitive Interaction**
 
